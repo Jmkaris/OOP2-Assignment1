@@ -8,19 +8,8 @@ public class Main{
     }
 }
 
-Question 2
 
-  public class Main {
-    public static void main(String[] args) {
-        int num1 = 45; // First number
-        int num2 = 5; // Second number
-
-        int sum = num1 + num2; // Calculate the sum
-
-        System.out.println("The sum is: " + sum); // Print the result
-    }
-}
-
+  
     Question 3
 
        public class Main {
